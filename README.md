@@ -16,7 +16,7 @@ It is made of four different classes, but only elephants and rhinos were retaine
 
 To perform the task we confronted two models: [YOLOv8](https://yolov8.com/) and [RT-DETR](https://docs.ultralytics.com/models/rtdetr/) from ultranalytics library.
 
-The full code is available in ```bash notebook/animal_detection_YOLO_RTDETR.ipynb```.
+The full code is available in ```notebook/animal_detection_YOLO_RTDETR.ipynb```.
 Models were loaded with the following set up:
 
 ```python
