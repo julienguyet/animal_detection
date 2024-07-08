@@ -4,7 +4,7 @@
 
 ## 1. Dataset :elephant:
 
-The data used for this project is the [African Wildlife dataset] (https://www.kaggle.com/datasets/biancaferreira/african-wildlife) from Kaggle by Bianca Ferreira.
+The data used for this project is the [African Wildlife dataset](https://www.kaggle.com/datasets/biancaferreira/african-wildlife) from Kaggle by Bianca Ferreira.
 
 It is made of four different classes, but only elephants and rhinos were retained for this exercise. The goal was to recognize elephants and framed them on a given picture, and to not add any annotation if no elephants were present.
 
